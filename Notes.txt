@@ -1,0 +1,8 @@
+clone this go project
+https://github.com/iam-veeramalla/go-web-app.git
+install go lang in the system
+$ go build -o main .
+$ ./main 
+- check the browser <ip:8080/courses>
+- create a docker file
+- create a dep,service file 
