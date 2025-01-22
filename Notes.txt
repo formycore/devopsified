@@ -1,5 +1,5 @@
 clone this go project
-https://github.com/iam-veeramalla/go-web-app.git
+https://github.com/formycore/devopsified.git
 install go lang in the system
 $ go build -o main .
 $ ./main 
