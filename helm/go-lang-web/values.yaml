@@ -1,0 +1,7 @@
+replicaCount: 1
+
+image:
+  repository: formycore/go-lang-web
+  pullPolicy: IfNotPresent
+  # overrides the tag with github actions
+  tags: v1
